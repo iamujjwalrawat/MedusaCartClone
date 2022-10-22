@@ -5,7 +5,7 @@
 Github : [@iamujjwalrawat](https://github.com/iamujjwalrawat) 
 
 Discord : wall_#5055
-
+ 
 ### Description
 
 This is an e-commerce website for minimalists range varies from : regular sized tees, lowers and half jackets powered by using NextJs combined with MedusaJs.
