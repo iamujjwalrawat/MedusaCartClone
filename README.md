@@ -25,7 +25,7 @@ Discord : wall_#5055
 
 ---
 
-![MedusaCartClone](https://user-images.githubusercontent.com/108294627/197879043-02011a6e-5d15-4f81-80c7-21f7abd2cc54.png)
+![MedusaCartClone](https://user-images.githubusercontent.com/108294627/197883295-1210dfac-379e-4dc5-bd6e-1888e05a2d9c.png)
 
 ### Description
 
