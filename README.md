@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/108294627/197875752-2038ae02-cd1d-4eec-883d-f8099aab932e.mp4
+
 # MedusaCartClone using NextJS with MedusaJS & SwiftUI 
 
 ### Participant
@@ -21,6 +25,7 @@ Discord : wall_#5055
 
 ---
 
+![MedusaCartClone](https://user-images.githubusercontent.com/108294627/197879043-02011a6e-5d15-4f81-80c7-21f7abd2cc54.png)
 
 ### Description
 
