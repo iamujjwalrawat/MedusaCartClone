@@ -7,8 +7,8 @@ Github : [@iamujjwalrawat](https://github.com/iamujjwalrawat)
 Discord : wall_#5055
  
 <h1 align="center" style="font-weight: bold;">MedusaCartClone</h1>
-<p align="center">Tshirt,Joggers,Sweatshirts & more! </p>
-<p align="center">Powered by MedusaJS and SwiftUI </p>
+<p align="center" style="font-weight: bold;">Tshirt,Joggers,Sweatshirts & more! </p>
+<p align="center" style="font-weight: bold;">Powered by MedusaJS and SwiftUI </p>
 <img width="983" alt="export87D8DBD3-5380-41FF-B81E-2C3219F595F2" src="https://user-images.githubusercontent.com/108294627/197875024-ed0f1dd6-2536-49c7-b1a0-4c1993927ba8.png">
 
 ---
@@ -21,7 +21,7 @@ Discord : wall_#5055
 
 ---
 
-<p align="center"><img src="./github-images/nuxt-store.jpeg"></img></p>
+
 ### Description
 
 This is an e-commerce website for minimalists range varies from : regular sized tees, lowers and half jackets powered by using NextJs combined with MedusaJs.
